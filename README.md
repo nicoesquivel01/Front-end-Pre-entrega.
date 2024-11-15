@@ -1,0 +1,1 @@
+El proyecto que realice consiste en la pre-entrega del curso que estoy realizando en adultos tech sobre Front-end. Esta entrega implementa html y css. Trata sobre una pagina web ecommerce ficticia de insumos de computacion. 
